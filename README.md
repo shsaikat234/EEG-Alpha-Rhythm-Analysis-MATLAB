@@ -1,4 +1,4 @@
-# 🧠 EEG-Alpha-Rhythm-Analysis-MATLAB
+# EEG-Alpha-Rhythm-Analysis-MATLAB
 
 ### MATLAB-based EEG Alpha Rhythm Analysis
 
@@ -7,7 +7,7 @@ It was developed as part of a **Biomedical Signal Processing (EEG II)** course u
 
 ---
 
-## 📌 Overview
+## Overview
 
 Electroencephalography (EEG) records electrical activity of the brain.  
 Alpha rhythms (8–13 Hz) are dominant when a person is relaxed with eyes closed and tend to diminish during mental activity or when eyes are open.
@@ -20,7 +20,7 @@ This project focuses on:
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 1. **Preprocessing**
    - Import raw EEG data and time vector.
@@ -48,7 +48,7 @@ This project focuses on:
 
 ---
 
-## 📊 Results Summary
+## Results Summary
 
 | Condition | EEG Std | Alpha Std | Alpha RMS Mean | Alpha RMS Diff | Summary |
 |------------|----------|------------|----------------|----------------|----------|
@@ -65,7 +65,7 @@ This project focuses on:
 
 ---
 
-## 📈 Visual Outputs
+## Visual Outputs
 
 - **Figure 1:** Alpha-band FFT comparison across stages  
 - **Figure 2:** Raw vs Alpha vs Alpha-RMS signals  
@@ -74,7 +74,7 @@ This project focuses on:
 
 ---
 
-## 🧩 Key MATLAB Components
+## Key MATLAB Components
 
 - `filtfilt()` → zero-phase band-pass filtering  
 - `fft()` → frequency domain analysis  
@@ -85,7 +85,7 @@ This project focuses on:
 
 ---
 
-## 🧠 Interpretation
+## Interpretation
 
 - **High alpha amplitude (eyes closed)** → relaxed brain state  
 - **Suppressed alpha (mental tasks / eyes open)** → active cortical processing  
@@ -95,7 +95,7 @@ These results align with well-established neurophysiological findings about alph
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 
 - **MATLAB R2023b** (or later)  
 - **Signal Processing Toolbox**  
@@ -103,7 +103,7 @@ These results align with well-established neurophysiological findings about alph
 
 ---
 
-## 📘 Learning Outcomes
+## Learning Outcomes
 
 - Implemented practical **EEG signal processing** pipeline in MATLAB  
 - Learned to use **FFT**, **filtering**, and **feature extraction**  
@@ -112,16 +112,16 @@ These results align with well-established neurophysiological findings about alph
 
 ---
 
-## 🧑‍🎓 Author
+## Author
 
 **Shahriar Uddin Saikat**  
 Biomedical Engineering, CUET  
-📅 Date: June 8, 2025  
-📍 Project: EEG II (MATLAB Lab)
+Date: June 8, 2025  
+Project: EEG II (MATLAB Lab)
 
 ---
 
-## 📜 License
+## License
 
 This project is shared for educational and research purposes.  
 Feel free to use or adapt with proper credit.
