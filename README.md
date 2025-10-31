@@ -3,7 +3,7 @@
 ### MATLAB-based EEG Alpha Rhythm Analysis
 
 This project analyzes EEG signals to study how **alpha brain wave activity (8–13 Hz)** changes under different mental and sensory conditions.  
-It was developed as part of a **Biomedical Signal Processing (EEG II)** course using MATLAB.
+It was developed as part of a **Biomedical Signals and Systems Sessional (BME 226)** course using MATLAB.
 
 ---
 
@@ -97,9 +97,9 @@ These results align with well-established neurophysiological findings about alph
 
 ## Tools Used
 
-- **MATLAB R2023b** (or later)  
+- **MATLAB R2025b** (or later)  
 - **Signal Processing Toolbox**  
-- Platform: Windows/Linux/macOS  
+- Platform: Windows  
 
 ---
 
@@ -117,7 +117,6 @@ These results align with well-established neurophysiological findings about alph
 **Shahriar Uddin Saikat**  
 Biomedical Engineering, CUET  
 Date: June 8, 2025  
-Project: EEG II (MATLAB Lab)
 
 ---
 
